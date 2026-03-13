@@ -1,0 +1,42 @@
+[
+  {
+    "id": "aquecimento",
+    "name": "Aquecimento / Pré-abertura",
+    "description": "Gerar antecipação para o drop das 19:30",
+    "cadence": "Alta",
+    "objective": "Sequências durante o dia para aquecer antes do drop noturno",
+    "recommendedDevices": [35, 3, 9, 1, 14, 38]
+  },
+  {
+    "id": "engajamento",
+    "name": "Engajamento Puro",
+    "description": "Conectar com audiência, gerar conversa, viciar nos stories",
+    "cadence": "Alta",
+    "objective": "Temas sobre estilo, investimento, curiosidades do mundo vintage",
+    "recommendedDevices": [6, 25, 31, 23, 32, 5]
+  },
+  {
+    "id": "consciencia",
+    "name": "Geração de Consciência",
+    "description": "Educar sobre cultura relojoeira sem vender diretamente",
+    "cadence": "Baixa",
+    "objective": "Conteúdo sobre história de marcas, movimentos, cuidados com relógio",
+    "recommendedDevices": [14, 35, 6, 3]
+  },
+  {
+    "id": "venda-produto",
+    "name": "Venda de Produto Físico",
+    "description": "Vender relógios específicos",
+    "cadence": "Baixa",
+    "objective": "Para peças premium ou drops especiais",
+    "recommendedDevices": [22, 34, 6, 3]
+  },
+  {
+    "id": "caixinha-pergunta",
+    "name": "Caixinha de Pergunta por Tema",
+    "description": "Gerar valor respondendo dúvidas sobre tema específico",
+    "cadence": "Alta",
+    "objective": "Dúvidas sobre marcas, movimentos, compras de relógio",
+    "recommendedDevices": [35, 14, 15]
+  }
+]

@@ -1,0 +1,162 @@
+[
+  {
+    "fact": "O Omega Speedmaster Professional foi o primeiro relógio usado na Lua, no pulso de Buzz Aldrin durante a missão Apollo 11 em 1969.",
+    "category": "famosos",
+    "brands": ["Omega"]
+  },
+  {
+    "fact": "A NASA testou relógios de diversas marcas para as missões espaciais, mas apenas o Omega Speedmaster sobreviveu a todos os testes de temperatura extrema, vácuo, vibração e impacto.",
+    "category": "historia-marca",
+    "brands": ["Omega"]
+  },
+  {
+    "fact": "O Omega Speedmaster ajudou a salvar a tripulação da Apollo 13 em 1970, quando os astronautas usaram o cronógrafo para cronometrar manualmente a queima dos motores de reentrada após a falha dos computadores de bordo.",
+    "category": "famosos",
+    "brands": ["Omega"]
+  },
+  {
+    "fact": "O Rolex Oyster, criado em 1926, foi o primeiro relógio de pulso à prova d'água do mundo, com uma caixa hermética selada.",
+    "category": "historia-marca",
+    "brands": ["Rolex"]
+  },
+  {
+    "fact": "Em 1953, Sir Edmund Hillary e Tenzing Norgay levaram um Rolex Oyster Perpetual ao cume do Monte Everest, comprovando a resistência do relógio em condições extremas.",
+    "category": "famosos",
+    "brands": ["Rolex"]
+  },
+  {
+    "fact": "O Rolex Submariner, lançado em 1953, foi o primeiro relógio de pulso à prova d'água até 100 metros e se tornou o modelo mais icônico de relógio de mergulho da história.",
+    "category": "historia-marca",
+    "brands": ["Rolex"]
+  },
+  {
+    "fact": "O Cartier Santos, criado em 1904 por Louis Cartier para o aviador Alberto Santos-Dumont, é considerado o primeiro relógio de pulso masculino projetado especificamente para uso no pulso.",
+    "category": "historia-marca",
+    "brands": ["Cartier"]
+  },
+  {
+    "fact": "Alberto Santos-Dumont pediu a Louis Cartier um relógio que pudesse consultar sem tirar as mãos do controle do dirigível, dando origem ao Cartier Santos.",
+    "category": "famosos",
+    "brands": ["Cartier"]
+  },
+  {
+    "fact": "O Cartier Tank foi inspirado nos tanques de guerra Renault usados na Primeira Guerra Mundial. Louis Cartier o criou em 1917 e presenteou o General Pershing com um dos primeiros exemplares.",
+    "category": "historia-marca",
+    "brands": ["Cartier"]
+  },
+  {
+    "fact": "A Rolex fabrica internamente suas próprias ligas de ouro em sua fundição, incluindo o Everose Gold, uma liga exclusiva de ouro rosa patenteada que não perde a cor com o tempo.",
+    "category": "mecanismo",
+    "brands": ["Rolex"]
+  },
+  {
+    "fact": "Um relógio mecânico típico contém entre 130 e 300 peças, mas um grande complicação pode ter mais de 1.000 componentes minúsculos.",
+    "category": "mecanismo",
+    "brands": []
+  },
+  {
+    "fact": "O Patek Philippe Calibre 89, criado em 1989, possui 33 complicações e 1.728 componentes, sendo um dos relógios mais complicados já feitos.",
+    "category": "mecanismo",
+    "brands": ["Patek Philippe"]
+  },
+  {
+    "fact": "A espiral do balanceiro de um relógio mecânico oscila entre 21.600 e 36.000 vezes por hora, e é essa vibração que regula a precisão do tempo.",
+    "category": "mecanismo",
+    "brands": []
+  },
+  {
+    "fact": "Um Patek Philippe Henry Graves Supercomplication foi vendido em leilão em 2014 por 24,4 milhões de dólares, tornando-se o relógio mais caro já vendido na época.",
+    "category": "mercado",
+    "brands": ["Patek Philippe"]
+  },
+  {
+    "fact": "O Rolex Daytona que pertenceu ao ator Paul Newman foi vendido em 2017 por 17,8 milhões de dólares, estabelecendo o recorde para um relógio de pulso em leilão naquele ano.",
+    "category": "mercado",
+    "brands": ["Rolex"]
+  },
+  {
+    "fact": "A Rolex produz aproximadamente 1 milhão de relógios por ano, e mesmo assim a demanda por modelos como o Submariner e o Daytona supera largamente a oferta.",
+    "category": "mercado",
+    "brands": ["Rolex"]
+  },
+  {
+    "fact": "Relógios mecânicos de alta qualidade podem manter precisão de -2/+2 segundos por dia, o que equivale a uma margem de erro de apenas 0,002%.",
+    "category": "mecanismo",
+    "brands": []
+  },
+  {
+    "fact": "O cristal de safira usado em relógios de luxo tem dureza 9 na escala de Mohs, sendo o segundo material mais duro depois do diamante, o que o torna praticamente impossível de riscar no uso diário.",
+    "category": "curiosidade",
+    "brands": []
+  },
+  {
+    "fact": "A Omega foi a cronometrista oficial dos Jogos Olímpicos desde 1932, tendo medido os tempos de milhares de atletas olímpicos ao longo de quase um século.",
+    "category": "historia-marca",
+    "brands": ["Omega"]
+  },
+  {
+    "fact": "O relógio automático foi inventado por Abraham-Louis Perrelet por volta de 1770, usando o movimento natural do pulso para dar corda ao mecanismo.",
+    "category": "mecanismo",
+    "brands": []
+  },
+  {
+    "fact": "O Rolex Deepsea Challenge desceu até o ponto mais profundo do oceano, a Fossa das Marianas, a 10.908 metros de profundidade, preso ao braço do submersível de James Cameron em 2012.",
+    "category": "famosos",
+    "brands": ["Rolex"]
+  },
+  {
+    "fact": "A Seiko lançou o primeiro relógio de quartzo do mundo em 1969, o Astron, que era mais preciso que qualquer relógio mecânico e custava o mesmo que um carro na época.",
+    "category": "historia-marca",
+    "brands": ["Seiko"]
+  },
+  {
+    "fact": "A chamada 'Crise do Quartzo' nos anos 1970 e 1980 quase destruiu a indústria relojoeira suíça. Centenas de marcas fecharam antes da reinvenção do relógio mecânico como objeto de luxo.",
+    "category": "mercado",
+    "brands": []
+  },
+  {
+    "fact": "O tourbillon, inventado por Abraham-Louis Breguet em 1801, gira o mecanismo de escape para compensar os efeitos da gravidade, e hoje é uma das complicações mais prestigiadas da alta relojoaria.",
+    "category": "mecanismo",
+    "brands": ["Breguet"]
+  },
+  {
+    "fact": "Hans Wilsdorf, fundador da Rolex, não era suíço — era alemão, nascido na Baviera em 1881. Ele fundou a empresa em Londres em 1905 antes de mudá-la para Genebra.",
+    "category": "curiosidade",
+    "brands": ["Rolex"]
+  },
+  {
+    "fact": "O Jaeger-LeCoultre Reverso foi criado em 1931 para jogadores de polo, com uma caixa que gira para proteger o cristal durante o jogo.",
+    "category": "historia-marca",
+    "brands": ["Jaeger-LeCoultre"]
+  },
+  {
+    "fact": "O mostrador de um relógio de luxo pode levar até 3 meses para ser fabricado, envolvendo processos como esmaltagem, guilhoché e aplicação manual de índices.",
+    "category": "curiosidade",
+    "brands": []
+  },
+  {
+    "fact": "A pátina nos mostradores de relógios vintage é causada pela degradação do material luminoso (rádio ou trítio) ao longo de décadas, e cria padrões únicos altamente valorizados por colecionadores.",
+    "category": "curiosidade",
+    "brands": []
+  },
+  {
+    "fact": "A Audemars Piguet Royal Oak, desenhada por Gérald Genta em 1972, revolucionou a indústria ao transformar um relógio de aço inoxidável em item de luxo, desafiando a ideia de que luxo exigia ouro.",
+    "category": "historia-marca",
+    "brands": ["Audemars Piguet"]
+  },
+  {
+    "fact": "O mercado global de relógios de luxo de segunda mão movimenta mais de 20 bilhões de dólares por ano e cresce mais rápido que o mercado de relógios novos.",
+    "category": "mercado",
+    "brands": []
+  },
+  {
+    "fact": "O Omega Seamaster ficou famoso no pulso de James Bond a partir do filme GoldenEye em 1995, substituindo o Rolex Submariner que o personagem usava nos filmes anteriores.",
+    "category": "famosos",
+    "brands": ["Omega", "Rolex"]
+  },
+  {
+    "fact": "O Zenith El Primero, lançado em 1969, foi um dos primeiros cronógrafos automáticos da história, com uma frequência de 36.000 vibrações por hora que permite medir décimos de segundo.",
+    "category": "mecanismo",
+    "brands": ["Zenith"]
+  }
+]
