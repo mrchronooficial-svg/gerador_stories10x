@@ -1,0 +1,3 @@
+{
+  "extends": "@criator_stories/config/tsconfig.base.json"
+}

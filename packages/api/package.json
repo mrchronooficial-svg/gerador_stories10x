@@ -1,0 +1,27 @@
+{
+  "name": "@criator_stories/api",
+  "type": "module",
+  "exports": {
+    ".": {
+      "default": "./src/index.ts"
+    },
+    "./*": {
+      "default": "./src/*.ts"
+    }
+  },
+  "scripts": {},
+  "dependencies": {
+    "@criator_stories/auth": "*",
+    "@criator_stories/db": "*",
+    "@criator_stories/env": "*",
+    "@trpc/client": "^11.7.2",
+    "@trpc/server": "^11.7.2",
+    "dotenv": "^17.2.2",
+    "next": "^16.1.1",
+    "zod": "^4.1.13"
+  },
+  "devDependencies": {
+    "@criator_stories/config": "*",
+    "typescript": "^5"
+  }
+}

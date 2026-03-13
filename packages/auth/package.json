@@ -1,0 +1,24 @@
+{
+  "name": "@criator_stories/auth",
+  "type": "module",
+  "exports": {
+    ".": {
+      "default": "./src/index.ts"
+    },
+    "./*": {
+      "default": "./src/*.ts"
+    }
+  },
+  "scripts": {},
+  "dependencies": {
+    "@criator_stories/db": "*",
+    "@criator_stories/env": "*",
+    "better-auth": "1.5.2",
+    "dotenv": "^17.2.2",
+    "zod": "^4.1.13"
+  },
+  "devDependencies": {
+    "@criator_stories/config": "*",
+    "typescript": "^5"
+  }
+}
