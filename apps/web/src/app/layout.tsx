@@ -27,6 +27,12 @@ export default function RootLayout({
 }>) {
   return (
     <html lang="en" suppressHydrationWarning>
+      <head>
+        <link
+          href="https://fonts.googleapis.com/css2?family=Montserrat:wght@500;700;800;900&display=swap"
+          rel="stylesheet"
+        />
+      </head>
       <body className={`${geistSans.variable} ${geistMono.variable} antialiased`}>
         <Providers>
           <div className="grid grid-rows-[auto_1fr] h-svh">
