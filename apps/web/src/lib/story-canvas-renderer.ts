@@ -243,15 +243,23 @@ export async function renderAndDownloadAll(
   return urls;
 }
 
-export function downloadAllStories(renderedUrls: string[]): void {
-  renderedUrls.forEach((url, i) => {
-    setTimeout(() => {
-      const a = document.createElement("a");
-      a.href = url;
-      a.download = `story_${i + 1}.png`;
-      a.click();
-    }, i * 300);
-  });
+export async function downloadAllStories(renderedUrls: string[]): Promise<void> {
+  const JSZip = (await import("jszip")).default;
+  const zip = new JSZip();
+
+  for (let i = 0; i < renderedUrls.length; i++) {
+    const dataUrl = renderedUrls[i]!;
+    const base64 = dataUrl.split(",")[1]!;
+    zip.file(`story_${i + 1}.png`, base64, { base64: true });
+  }
+
+  const blob = await zip.generateAsync({ type: "blob" });
+  const url = URL.createObjectURL(blob);
+  const a = document.createElement("a");
+  a.href = url;
+  a.download = "stories.zip";
+  a.click();
+  URL.revokeObjectURL(url);
 }
 
 export function loadImage(src: string): Promise<HTMLImageElement> {
